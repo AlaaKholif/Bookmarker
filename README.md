@@ -35,7 +35,7 @@ Check out the live demo [here](https://alaakholif.github.io/Bookmarker/).
 1. Clone the repository to your local machine.
 2. Open the `index.html` file in your preferred web browser.
 3. Enter the site name and URL in the provided form.
-4. Click the "Add Bookmark" button to save the bookmark.
+4. Click the "submit" button to save the bookmark.
 5. View, visit, or delete saved bookmarks using the displayed options.
 
 ## Notes
